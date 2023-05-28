@@ -5,4 +5,4 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vntuananhbui&show_icons=true&theme=radical)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vntuananhbui&layout=compact&hide=css,html,handlebars)]
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vntuananhbui&layout=compact&hide=css,html,handlebars)
