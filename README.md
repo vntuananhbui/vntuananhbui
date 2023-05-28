@@ -3,6 +3,6 @@
 [![](https://img.shields.io/badge/-@tombuivn-%231DA1F2?style=flat-square&logo=facebook&logoColor=ffffff)](https://facebook.com/wancr1710)
 [![](https://img.shields.io/badge/-Tuan%20Anh-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/daniaal-nadir/)](https://www.linkedin.com/in/vntuananh/)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tombuivn&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vntuananhbui&show_icons=true&theme=radical)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tombuivn&layout=compact&hide=css,html,handlebars)]
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vntuananhbui&layout=compact&hide=css,html,handlebars)]
