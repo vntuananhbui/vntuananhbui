@@ -1,9 +1,8 @@
-<h1 align="center">Hi 👋, I'm TomBui</h1>
-<h3 align="center">RMIT University in Information Technology (Minor AI)</h3>
+<h1 align="center">Hi, I'm TomBui 👋</h1>
+<h3 align="center">Undergraduate @RMIT University in Information Technology (Minor AI)</h3>
 
 - 📫 How to reach me **vntuananhbui@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
