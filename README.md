@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm TomBui 👋</h1>
+<h1 align="center">Hi, I'm TuanAnh 👋</h1>
 <h3 align="center">Undergraduate @RMIT University in Information Technology (Minor AI)</h3>
 
 - 📫 How to reach me **vntuananhbui@gmail.com**
